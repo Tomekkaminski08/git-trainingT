@@ -1,1 +1,3 @@
 # git-trainingT
+
+ale zmiany
