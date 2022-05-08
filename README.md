@@ -1,1 +1,2 @@
 # git-trainingT
+git status
